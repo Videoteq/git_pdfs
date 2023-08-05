@@ -28,7 +28,7 @@ css = '''
 bot_template = '''
 <div class="chat-message bot">
     <div class="avatar">
-        <img src="https://img.icons8.com/?size=512&id=33AhtK7ADm8R&format=png" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
+        <img src="https://www.videoteq.co.uk/wp-content/uploads/2023/08/guinea_scientific.jpeg" style="max-height: 78px; max-width: 78px; border-radius: 50%; object-fit: cover;">
     </div>
     <div class="message">{{MSG}}</div>
 </div>
@@ -37,7 +37,7 @@ bot_template = '''
 user_template = '''
 <div class="chat-message user">
     <div class="avatar">
-        <img src="https://img.icons8.com/?size=512&id=TqOgQyUuypPY&format=png">
+        <img src="https://www.videoteq.co.uk/wp-content/uploads/2023/08/donkey_hat-1.jpeg">
     </div>    
     <div class="message">{{MSG}}</div>
 </div>
